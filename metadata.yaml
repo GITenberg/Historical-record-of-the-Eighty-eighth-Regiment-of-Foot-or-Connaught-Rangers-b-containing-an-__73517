@@ -1,5 +1,8 @@
 _repo: Historical-record-of-the-Eighty-eighth-Regiment-of-Foot-or-Connaught-Rangers-b-containing-an-__73517
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73517-h/images/cover.jpg
 creator:
   author:
     agent_name: Cannon, Richard
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45414
     wikipedia: https://en.wikipedia.org/wiki/Richard_Cannon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73517#Historical-record-of-the-Eighty-eighth-Regiment-of-Foot-or-Connaught-Rangers-b-containing-an-_
 gutenberg_issued: '2024-05-02'
 gutenberg_type: Text
 identifiers:
